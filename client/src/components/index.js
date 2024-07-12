@@ -1,0 +1,9 @@
+export { default as Input } from "./Input";
+export { default as SubmitBtn } from "./SubmitBtn";
+export { default as Title } from "./Title";
+export { default as Section } from "./Section";
+export { default as Navbar } from "./Navbar";
+export { default as Footer } from "./Footer";
+export { default as Select } from "./Select";
+export { default as Textarea } from "./Textarea";
+export { default as Task } from "./Task";
